@@ -1,0 +1,1 @@
+pscp -i C:\path\my-key-pair.ppk C:\path\first-spring-boot-app-on-aws-0.0.1-SNAPSHOT.jar my-instance-user-name@my-instance-public-dns-name:/home/my-instance-user-name/first-spring-boot-app-on-aws-0.0.1-SNAPSHOT.jar
